@@ -1,24 +1,33 @@
-# A
+# Everything
+
+## A
 
 An edit to a
-# B
+
+## B
 
 An edit to b.
-# C
+
+## C
 
 An edit to c.
-# D
+
+## D
 
 An edit to d.
-# E
+
+## E
 
 An edit to e.
-# F
+
+## F
 
 An edit to f.
-# F
+
+## F
 
 An edit to f.
-# G
+
+## G
 
 An edit to g
