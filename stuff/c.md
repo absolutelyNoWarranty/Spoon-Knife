@@ -1,3 +1,3 @@
 # C
 
-An edit to c.
+An edit to c. Because c is cool.
