@@ -1,3 +1,3 @@
 # B
 
-An edit to b.
+An edit to b. Because b is the best.
