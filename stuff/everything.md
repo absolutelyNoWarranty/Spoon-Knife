@@ -10,11 +10,11 @@ Once upon a time there was an a.
 
 ## B
 
-An edit to b.
+An edit to b. Because b is the best.
 
 ## C
 
-An edit to c.
+An edit to c. Because c is cool.
 
 ## D
 
